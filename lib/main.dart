@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:pet_project_flutter/src/pages/HomePage.dart';
 
 
 
@@ -10,7 +11,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
         title: 'App-Task',
         debugShowCheckedModeBanner: false,
-        home: Scaffold()
+        home: HomePage()
     );
   }
 }
