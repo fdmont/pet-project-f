@@ -5,6 +5,21 @@
       "ruta": "hoy",
       "icon": "x",
       "texto": "Hoy"
+    },
+    {
+      "ruta": "prox7dias",
+      "icon": "x",
+      "texto": "Proximos 7 días"
+    },
+    {
+      "ruta": "prox30dias",
+      "icon": "x",
+      "texto": "Proximos 30 días"
+    },
+    {
+      "ruta": "estadisticas",
+      "icon": "x",
+      "texto": "Estadisticas"
     }
   ]
 }
