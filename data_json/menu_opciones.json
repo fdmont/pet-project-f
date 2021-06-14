@@ -1,0 +1,10 @@
+{
+  "nombreApp": "pet Project",
+  "rutas" : [
+    {
+      "ruta": "hoy",
+      "icon": "x",
+      "texto": "Hoy"
+    }
+  ]
+}
